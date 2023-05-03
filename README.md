@@ -1,4 +1,6 @@
 # Mixbox: Pigment-Based Color Mixing
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftiffanyfung%2Fmixbox.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftiffanyfung%2Fmixbox?ref=badge_shield)
+
 
 <p align="center">
   <img src="https://scrtwpns.com/mixbox/teaser.jpg"/>
@@ -368,3 +370,6 @@ This painting app runs two color mixing implementations in parallel: one based o
 Copyright (c) 2022, Secret Weapons. All rights reserved.<br>
 Mixbox is provided under the CC BY-NC 4.0 license for non-commercial use only.<br>
 If you want to obtain commercial license, please contact: mixbox@scrtwpns.com
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Ftiffanyfung%2Fmixbox.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Ftiffanyfung%2Fmixbox?ref=badge_large)
